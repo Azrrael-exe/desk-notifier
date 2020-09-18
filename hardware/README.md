@@ -1,1 +1,2 @@
-# desk-notifier - Device
+# desk-helper
+Desk Helper Device
