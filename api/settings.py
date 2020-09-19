@@ -2,7 +2,7 @@ import re
 import os
 from serial.tools import list_ports
 
-VERSION = '1.0.0'
+VERSION = '1.0.1'
 
 RUNNING_OS = os.getenv('OS', 'MACOS')
 DEVICE_PORT = os.getenv('DEVICE_PORT', None)
